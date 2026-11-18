@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Apex 300</string>
+    <string name="tagline_subtitle">300 KM/H SUPERBIKE SIMULATOR</string>
+    <string name="btn_race_now">RACE NOW</string>
+    <string name="btn_garage">GARAGE</string>
+    <string name="btn_resume">RESUME</string>
+    <string name="btn_restart">RESTART</string>
+    <string name="btn_exit_menu">MAIN MENU</string>
+    <string name="label_top_speed">TOP SPEED</string>
+    <string name="label_distance">DISTANCE</string>
+    <string name="label_near_misses">NEAR MISSES</string>
+    <string name="label_score">SCORE</string>
+    <string name="label_best_score">BEST</string>
+    <string name="label_kmh">KM/H</string>
+    <string name="label_gear">GEAR</string>
+    <string name="label_lap">LAP</string>
+    <string name="label_pos">POS</string>
+    <string name="mode_highway_title">Alpine Sunset Highway</string>
+    <string name="mode_highway_desc">Endless 300 km/h traffic blitz with slipstream drafts and near-miss combos</string>
+    <string name="mode_circuit_title">Midnight GP Circuit</string>
+    <string name="mode_circuit_desc">3-lap floodlit championship against rival 1000cc superbikes</string>
+    <string name="control_steer_left">Steer Left</string>
+    <string name="control_steer_right">Steer Right</string>
+    <string name="control_throttle">Throttle</string>
+    <string name="control_brake">Brake</string>
+    <string name="control_boost">Aero 300 Boost</string>
+    <string name="control_pause">Pause Game</string>
+    <string name="setting_tilt_steer">Tilt Steering</string>
+    <string name="setting_auto_gas">Auto Throttle</string>
+    <string name="setting_engine_audio">Engine Sound</string>
+    <string name="setting_haptics">Haptic Feedback</string>
+</resources>

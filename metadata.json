@@ -1,0 +1,6 @@
+{
+  "name": "Apex 300",
+  "description": "Realistic 300 km/h superbike highway and circuit racing game with 3D perspective road rendering, lean physics, slipstream boosts, and live telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
